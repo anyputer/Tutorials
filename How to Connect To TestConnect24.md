@@ -97,9 +97,7 @@ Local file to return or *Action to execute: https://testconnect24.ml/first/XX.ce
 
 `Error Code: 258404`
 
-Instead of:
-
-`Error Code: 252102`
+Instead of going into the Nintendo DSi Shop.
 
 That's it! You're now officially connected to DSiConnect24 / TestConnect24 for DSi!
 
