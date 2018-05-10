@@ -79,7 +79,7 @@ Local file to return or *Action to execute: https://testconnect24.ml/first/XX.ce
 
 2. Type in `ipconfig`.
 
-> Your IPv4 Address should be the IP Address you use. The Wii doesn't support IPv6 Addresses.
+> Your IPv4 Address should be the IP Address you use. The DSi doesn't support IPv6 Addresses.
 
 **DSi Setup: Continued Again**
 
