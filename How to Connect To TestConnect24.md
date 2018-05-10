@@ -1,13 +1,13 @@
 # How to Connect to TestConnect24
-The scripts for the revived WC24 Channels. The scripts aren't here yet but they will be here soon!
+The scripts for the Nintendo DSi Shop aren't here yet but they will be here soon!
 
-How to connect to TestConnect24 (currently):
+How to connect to DSiConnect / TestConnect24 on your DSi (currently):
 
 If you want to connect to TestConnect24 service, you need:
 
 - Windows Computer
 
-- Nintendo Wii
+- Nintendo DSi
 
 - Internet Connection
 
@@ -41,41 +41,35 @@ Local file to return or *Action to execute: https://testconnect24.ml/first/XX.ce
 
 9. Restart fiddler by closing it and running it again.
 
-10. Now, head over to your Wii.
+10. Now, head over to your DSi.
 
-**Wii Setup:**
+**DSi Setup:**
 
-1. Go into Wii options, then Wii settings.
+1. Power on your dsi and go to "System Settings".
 
-2. Go to Wii System Settings, then go to page 2 and click Internet.
+2. Turn to page 3 and click "Internet"
 
-**If you already have a connection setup, skip "For Wireless and For Wired Steps"**
+3. Then, Go to Connection Settings.
 
-3. Pick an available connection and connect to the internet.
+**If you already have a connection setup, skip "How To Connect To The Interent"**
 
-**For Wireless**
 
-1. Click "Wireless Connection" and click "Search for an Access Point".
 
-2. Then pick your WiFi and enter your WiFi password.
+**How To Connect To The Internet: Wireless**
 
-3. Now do a connection test and see if your connection was successful.
+1. For WEP, click any available connection point. If you WPA or WPA2, go to Advanced Setup and then pick an available connection point.
 
-4. If the connection test was successful, click "No" to skip performing a Wii system update.
+2. Click "Search for an Access Point."
 
-**For Wired**
+3. Then pick your WiFi and enter your WiFi password.
 
-1. You are going to need a "USB to LAN adapter".
+4. Now do a connection test and see if your connection was successful.
 
-2. Click wired connection and do a connection test to see if it can connect.
+**DSi Setup: Continued**
 
-3. If the coonnection test was successful, click "No" to skip performing a Wii system update.
+4. Now, click your connection #, click change settings, and turn right until you see "Proxy Settings".
 
-**Wii Setup: Continued**
-
-4. Now, click your connection #, click change settings, and turn right until you see "Proxy Server".
-
-5. Click "Use" and then click "Advanced Settings".
+5. Click "Yes" and then click "Detailed setup".
 
 6. Click "Proxy Server" and type in your IP Address.
 
@@ -87,17 +81,17 @@ Local file to return or *Action to execute: https://testconnect24.ml/first/XX.ce
 
 > Your IPv4 Address should be the IP Address you use. The Wii doesn't support IPv6 Addresses.
 
-**Wii Setup: Continued Again**
+**DSi Setup: Continued Again**
 
 7. For the port, type "8888".
 
 8. Then click "Confirm" and click "Save".
 
-9. Do a connection test and if the connection test is successful, click "No" to skip performing a Wii system update.
+9. Do a connection test and see if the connection test is successful.
 
 10. GO back on your computer and check "Enable rules".
 
-11. Now to make sure it works, click on Check Mii Out Channel and click "Start".
+11. Now to make sure it works, go back to the "Nintendo DSi Menu" and open the "Nintendo DSi Shop"
 
 12. Now, if successful. It should give you this error code:
 
@@ -107,6 +101,6 @@ Instead of:
 
 `Error Code: 252102`
 
-That's it! You're now officially connected to TestConnect24!
+That's it! You're now officially connected to DSiConnect24 / TestConnect24 for DSi!
 
-Thanks for join our service! 
+Thanks for joining our service! 
