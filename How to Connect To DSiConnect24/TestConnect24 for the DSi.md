@@ -1,4 +1,4 @@
-# How to Connect to TestConnect24
+# How to Connect to DSiConnect24 / TestConnect24 for the DSi
 The scripts for the Nintendo DSi Shop aren't here yet but they will be here soon!
 
 How to connect to DSiConnect / TestConnect24 on your DSi (currently):
@@ -99,6 +99,6 @@ Local file to return or *Action to execute: https://testconnect24.ml/first/XX.ce
 
 Instead of going into the Nintendo DSi Shop.
 
-That's it! You're now officially connected to DSiConnect24 / TestConnect24 for DSi!
+That's it! You're now officially connected to DSiConnect24 / TestConnect24 for the DSi!
 
 Thanks for joining our service! 
