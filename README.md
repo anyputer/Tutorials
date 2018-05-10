@@ -95,7 +95,7 @@ Local file to return or *Action to execute: https://testconnect24.ml/first/XX.ce
 
 12. Now, if successful. It should give you this error code:
 
-`Error Code: 258404`
+`Error Code: 292500`
 
 Instead of going into the Nintendo DSi Shop.
 
