@@ -17,7 +17,7 @@ If you want to connect to TestConnect24 service, you need:
 
 Click [here](https://www.telerik.com/download/fiddler/fiddler4) to download.
 
-2. Run "FiddlerSetup" and once installed, open Fiddler 4
+2. Run "FiddlerSetup" and once installed, open Fiddler 4.
 
 3. Open "AutoResponder" and click "Add Rule".
 
@@ -35,7 +35,7 @@ Local file to return or *Action to execute: https://testconnect24.ml/first/XX.ce
 
 6. Now, click save and go into tools, options, then connections.
 
-7. Check everything except "Use PAC Script"
+7. Check everything except "Use PAC Script".
 
 > "Capture FTP Requests" is optional but uses most of your CPU.
 
@@ -51,7 +51,7 @@ Local file to return or *Action to execute: https://testconnect24.ml/first/XX.ce
 
 3. Then, Go to Connection Settings.
 
-**If you already have a connection setup, skip "How To Connect To The Interent"**
+**If you already have a connection setup, skip "How To Connect To The Internet"**
 
 
 
@@ -75,7 +75,7 @@ Local file to return or *Action to execute: https://testconnect24.ml/first/XX.ce
 
 **If you don't know your IP Address**
 
-1. Head over to your computer and go into cmd.exe (command prompt)
+1. Head over to your computer and go into cmd.exe (command prompt).
 
 2. Type in `ipconfig`.
 
@@ -91,9 +91,11 @@ Local file to return or *Action to execute: https://testconnect24.ml/first/XX.ce
 
 10. GO back on your computer and check "Enable rules".
 
-11. Now to make sure it works, go back to the "Nintendo DSi Menu" and open the "Nintendo DSi Shop"
+11. Also make sure to enable "Unmatched requests passthrough".
 
-12. Now, if successful. It should give you this error code:
+12. Now to make sure it works, go back to the "Nintendo DSi Menu" and open the "Nintendo DSi Shop".
+
+13. Now, if successful. It should give you `Error Code: 292500` or it will bring you to the DSi Shop with no titles.
 
 `Error Code: 292500`
 
