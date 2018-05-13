@@ -1,5 +1,5 @@
 # How to Connect to DSiConnect24 / TestConnect24 for the DSi (for testing purposes)
-The scripts for the Nintendo DSi Shop aren't here yet but they will be here soon!
+Well this is a tutorial for testing purposes only, DSi Shop does not work yet as we are getting the necessary files for you guys but if you still want to connect, here is the tutorial.
 
 How to connect to DSiConnect / TestConnect24 on your DSi (currently):
 
